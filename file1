@@ -1,5 +1,6 @@
-testfile
-my testing
-testfile
-hiiii
-hellllllllllllllllllllllooooooooooooooooo
+#!/bin/bash
+##################################
+###SCRIPT FOR GITHUB##############
+##################################
+echo "welcome"
+echo "iam coming from branch1"
